@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
       // home: ExpandedLayout(),
       // home: SizedBoxLayout(),
       // home: AlignLayout(),
-      home: WellcomePage(),
+      home: WellcomePage(), 
     );
   }
 } 
